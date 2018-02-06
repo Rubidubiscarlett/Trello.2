@@ -1,0 +1,44 @@
+
+/*estilos de barra nav*/
+.nav-wrapper{
+  background-color: rgb(0, 103, 163);
+}
+.icon-gap{
+  padding-left: 2vh;
+  color: white;
+}
+.title{
+  font-size: 1.5em;
+}
+/*estilos del board */
+body{
+ background-color: #0079BF;
+}
+.stay-closer{
+  margin-top: -40px;
+  padding-left: 20px;
+}
+
+.aul {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  background-color:#1D388C;
+  height: 3em;
+
+}
+
+.aul:hover{
+  opacity: 1;
+}
+
+ul>li{
+display: inline;
+}
+
+.color{
+  background-color: #ccc;
+}
+.hidde{
+display:none;
+
+}
